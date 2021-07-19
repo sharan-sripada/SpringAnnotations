@@ -1,0 +1,3 @@
+com.springdemo.HappyFortuneService=org.springframework.stereotype.Component
+com.springdemo.SadFortuneService=org.springframework.stereotype.Component
+com.springdemo.TennisCoach=org.springframework.stereotype.Component
